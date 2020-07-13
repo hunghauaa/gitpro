@@ -1,4 +1,4 @@
 function mouse() {
-	// body...dsadasdasd
-}dsadasd
+	// body...
+}
 module.export = mouse
